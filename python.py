@@ -1,3 +1,3 @@
-print("hello world")
-print(5+4)
-print(5,"+",4,"=",5+4)
+>>> primt'hello world!'
+file "<stdin>", line 1
+primt 'hello world!'
